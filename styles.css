@@ -1,0 +1,53 @@
+body {
+
+    color: rgb(8, 4, 4);
+    background: rgb(216, 8, 8);
+    margin: 0px;
+
+}
+
+header {
+    border-bottom: solid 2px rgb(237, 225, 55);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(3, 3, 4);
+    font-family: "Leckerli One", cursive;
+
+}
+
+section {
+	background: rgb(209, 50, 50);
+	padding-bottom: 80px;
+	padding-top: 80px;
+	display: flex;
+	justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
